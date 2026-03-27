@@ -13,6 +13,7 @@ I have been taking computers apart since I was a kid messing with a cranky old i
 - 🌊 **[async-json-streamer](https://github.com/singular-labs/async-json-streamer)** - Async JSON value streaming parser for `AsyncRead` sources.
 - 🤖 **[agent-stuff](https://github.com/ngutman/agent-stuff)** - My experiments, notes, and tooling around agents.
 - ⚙️ **[configs](https://github.com/ngutman/configs)** - My dotfiles, shell setup, editor config, and local machine tooling.
+- 🔎 **[esq](https://github.com/ngutman/esq)** - Generic CLI for querying OpenSearch, Elasticsearch, and other ELK-compatible stacks.
 - 🪟 **[Pi-Somfy](https://github.com/ngutman/Pi-Somfy)** - Control Somfy RTS shutters from a Raspberry Pi with cheap RF hardware.
 - 🌀 **[star-fan-control](https://github.com/ngutman/star-fan-control)** - Reverse-engineered RF control for Star ceiling fans, with a Home Assistant-friendly API.
 
