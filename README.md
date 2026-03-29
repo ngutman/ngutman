@@ -14,6 +14,7 @@ I have been taking computers apart since I was a kid messing with a cranky old i
 - 🤖 **[agent-stuff](https://github.com/ngutman/agent-stuff)** - My experiments, notes, and tooling around agents.
 - ⚙️ **[configs](https://github.com/ngutman/configs)** - My dotfiles, shell setup, editor config, and local machine tooling.
 - 🔎 **[esq](https://github.com/ngutman/esq)** - Generic CLI for querying OpenSearch, Elasticsearch, and other ELK-compatible stacks.
+- 📶 **[signalbar](https://github.com/ngutman/signalbar)** - A macOS menu bar app that diagnoses which network layer is failing.
 - 🪟 **[Pi-Somfy](https://github.com/ngutman/Pi-Somfy)** - Control Somfy RTS shutters from a Raspberry Pi with cheap RF hardware.
 - 🌀 **[star-fan-control](https://github.com/ngutman/star-fan-control)** - Reverse-engineered RF control for Star ceiling fans, with a Home Assistant-friendly API.
 
